@@ -1,0 +1,13 @@
+.g1,.g2{
+    font-family: Helvetica,'Times New Roman', sans-serif;
+    font-size: 28px;
+}
+
+.g1{
+    color: white;
+    background-color:black ;
+}
+
+.g2{
+    background-color: yellow;
+}
